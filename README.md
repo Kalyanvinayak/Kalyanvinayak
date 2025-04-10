@@ -1,28 +1,33 @@
-# 👋 Hi, I'm Kalyan Vinayak
+# 👋 Hi, I'm [Your Name]
 
-I'm a passionate developer and tech enthusiast focused on solving real-world problems through innovative software-hardware integration. From creating intelligent navigation systems using A* algorithm and Arduino to building AI-powered disaster management apps with Flutter, Firebase, and Google Cloud, I love turning complex ideas into meaningful, working solutions.
+I'm a passionate developer and tech enthusiast blending the best of both **Computer Science** and **Electronics**. Whether it's building intelligent embedded systems or full-stack mobile apps, I love solving real-world problems through creative engineering.
 
 ---
 
 ## 🚀 What I Do
 
-- 🔧 **IoT & Embedded Systems**  
-  Built a smart city navigation system using Arduino, LCDs, shift registers, and LED matrices. Sent optimized A* path data from C++ to Arduino via serial communication and visualized the route dynamically.
+- 🔧 **IoT & Embedded Systems (ECE + CSE Hybrid)**  
+  Built a smart city navigation system using Arduino, LED matrices, shift registers, and LCDs. Used A* algorithm for pathfinding, and seamlessly integrated C++ logic with real-time serial communication for dynamic hardware control.
 
 - 📱 **Mobile App Development (Flutter)**  
-  Currently developing a **dual-interface disaster management app** for civilians and government agencies. Key features include:
-  - AI-powered disaster prediction (earthquake, cyclone)
-  - Real-time SOS alert system
-  - Rescue team tracking via GPS-enabled wearables
-  - Firebase-based inventory and resource management
-  - Push notifications using FCM
-  - Mesh networking (planned) for emergency offline communication
+  Developing a **government + civilian disaster management app** with:
+  - AI-based disaster prediction (earthquake, cyclone)
+  - Real-time SOS alert & rescue team tracking
+  - Firebase-based inventory and push notifications
+  - Wearable hardware integration using ESP, GPS, and LoRa
+  - Offline mesh networking (coming soon)
 
-- 🧠 **AI/ML Integration**  
-  Integrated APIs and models to predict natural disasters, enhance inventory logistics, and support intelligent alert systems. Passionate about expanding ML applications into public safety tech.
+- 🧠 **AI/ML & Cloud**  
+  Integrating ML models & APIs for disaster forecasting and smart alert systems. Using **Firebase**, **GCP**, and **Gemini AI** for backend intelligence.
 
-- 🌐 **Cloud & Backend Tools**  
-  Proficient with Firebase (Auth, Firestore, FCM), Google Cloud Platform, and GitHub Actions for CI/CD.
+- 👨‍💻 **Competitive Programming**  
+  - 🛡️ **Knight Badge on LeetCode**
+  - 📈 **Codeforces Max Rating: 1222**
+  - Solid problem-solving skills in **C++** and strong grasp of algorithms and data structures.
+  - Frequently participate in contests and enjoy tackling algorithmic challenges.
+
+- 🤝 **Open Source Enthusiast**  
+  Always open to contributing to meaningful projects, learning from the community, and building together.
 
 ---
 
@@ -32,30 +37,31 @@ I'm a passionate developer and tech enthusiast focused on solving real-world pro
 `C++` `Dart` `Python` `JavaScript`
 
 **Frameworks & Tools:**  
-`Flutter` `Arduino` `Firebase` `GCP` `Gemini AI` `LoRa` `ESP` `Git` `Figma` `VS Code`
+`Flutter` `Firebase` `Arduino` `GCP` `Gemini AI` `ESP32` `LoRa` `Figma` `VS Code` `Git`  
 
-**Currently Learning:**  
-- Machine Learning for Disaster Forecasting  
-- Scalable Cloud Architecture  
-- Offline-first Mesh Networking
+**Strengths:**  
+- Dual expertise in **CSE & ECE**
+- Capable of handling **end-to-end project development** — from hardware prototyping to full-stack app development
 
 ---
 
 ## 📈 Some Highlights
 
-- 🛰 Designed a GPS-enabled **wearable device** for rescue teams using ESP and LoRa modules, connected in real time to the central dashboard.
-- 📍 Created a **smart routing system** for urban transport in Imphal using Euclidean heuristics and A* algorithm.
-- 🧠 Participated in Google-hosted Hackathons, developing prototypes around **disaster response**, **inventory automation**, and **AI-driven alerts**.
+- 🛰 Created a GPS-based **wearable rescue device** using ESP, LoRa, and OLED for real-time disaster response.
+- 📍 Developed an intelligent **navigation system** for Imphal city using A* algorithm, Euclidean heuristics, and live LED route display.
+- 🧠 Participated in **Google-hosted hackathons**, building prototypes around AI in disaster management, inventory systems, and SOS networks.
 
 ---
 
 ## ✨ Let's Connect
 
 - 📫 **Email:** kalyanleomessi@gmail.com 
-- 🌐 **LinkedIn:** www.linkedin.com/in/kalyan-vinayak-38903125a
-- 🧠 **Dev Blog / Portfolio:** Coming soon...
+- 🌐 **LinkedIn:** https://www.linkedin.com/in/kalyan-vinayak-38903125a/  
+- 💬 **LeetCode:** https://leetcode.com/u/kalyanvinayak/
+- 🧠 **Codeforces:** https://codeforces.com/profile/kalyanvinayak369365  
+- 🔭 **Open to:** Open source contributions | Team projects | Research collaborations
 
 ---
 
-_“Build solutions that matter.”_  
-Thanks for visiting! 🌍
+_“Engineered solutions, not just code.”_  
+Thanks for visiting! 🚀
