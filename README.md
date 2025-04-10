@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Kalyan Vinayak
 
 I'm a passionate developer and tech enthusiast blending the best of both **Computer Science** and **Electronics**. Whether it's building intelligent embedded systems or full-stack mobile apps, I love solving real-world problems through creative engineering.
 
