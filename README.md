@@ -58,7 +58,6 @@ I'm a passionate developer and tech enthusiast blending the best of both **Compu
 - 📫 **Email:** kalyanleomessi@gmail.com 
 - 🌐 **LinkedIn:** https://www.linkedin.com/in/kalyan-vinayak-11a824375/
 - 💬 **LeetCode:** https://leetcode.com/u/kalyanvinayak/
-- 🧠 **Codeforces:** https://codeforces.com/profile/kalyanvinayak369365  
 - 🔭 **Open to:** Open source contributions | Team projects | Research collaborations
 
 ---
